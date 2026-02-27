@@ -2,6 +2,7 @@
 
 > Investigating retrieval effectiveness across TF-IDF, MiniLM embeddings, and hybrid methods on a 20K-document StackOverflow corpus.
 
+Paper: https://zenodo.org/records/18807773?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYyYWEzZmE4LWJjMWUtNDVhNC1iNTViLWE4ZGM3YzExNjI4MSIsImRhdGEiOnt9LCJyYW5kb20iOiI2MmNlZjJiNTA2NDgyOTU4MDg0ZjQ4MjZkYmIyOTU2MyJ9.wsZDS0de0ALbVHHqqCw28_HxLkxtFBs-keeC0a65uyvBGymc05LKBa_77oYPrF2fB71dyfzABqa03dIE6K-FWQ
 ---
 
 ## 📌 Overview
