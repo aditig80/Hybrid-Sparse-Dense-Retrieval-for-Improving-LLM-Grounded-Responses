@@ -1,0 +1,7 @@
+Dataset: 19965 documents (write exact count)
+Evaluation: 1000 queries
+
+Sparse TF-IDF:
+Recall@5: 0.394
+Recall@10: 0.495
+Avg Query Time: 0.041 sec
